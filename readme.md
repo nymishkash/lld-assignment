@@ -122,7 +122,7 @@ Under the Dome: A Novel - $20.0
 
 ### Error Handling
 
-The application includes robust error handling for:
+The application includes error handling for:
 
 - Malformed CSV data
 - Missing or invalid numeric values
@@ -131,7 +131,3 @@ The application includes robust error handling for:
 ## Dependencies
 
 This project uses only standard Java libraries - no external dependencies required.
-
-## License
-
-This project is for educational purposes.
